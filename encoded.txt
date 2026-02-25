@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/username/escrow-sub/main/encoded.txt
+https://raw.githubusercontent.com/zexyz111/escrow-sub/main/encoded.txt
